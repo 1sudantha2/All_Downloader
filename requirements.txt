@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+python-dotenv
+yt-dlp
+psutil
+speedtest-cli
