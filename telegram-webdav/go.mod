@@ -5,10 +5,9 @@ go 1.25.4
 require (
 	github.com/gotd/td v0.138.0
 	github.com/joho/godotenv v1.5.1
+	github.com/mattn/go-sqlite3 v1.14.33
 	go.uber.org/zap v1.27.1
 	golang.org/x/net v0.49.0
-	gorm.io/driver/sqlite v1.6.0
-	gorm.io/gorm v1.31.1
 )
 
 require (
@@ -25,12 +24,9 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/gotd/ige v0.2.2 // indirect
 	github.com/gotd/neo v0.1.5 // indirect
-	github.com/jinzhu/inflection v1.0.0 // indirect
-	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/klauspost/compress v1.18.3 // indirect
 	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
-	github.com/mattn/go-sqlite3 v1.14.22 // indirect
 	github.com/ogen-go/ogen v1.16.0 // indirect
 	github.com/segmentio/asm v1.2.1 // indirect
 	github.com/shopspring/decimal v1.4.0 // indirect
